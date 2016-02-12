@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ItemIconCache>
+  <Item ItemPath="/sitecore/content/Home" ItemIcon="/temp/IconCache/Network/16x16/home.png" />
+  <Item ItemPath="/sitecore/content" ItemIcon="/temp/IconCache/People/16x16/cubes_blue.png" />
+  <Item ItemPath="/sitecore/content/Home/Family Holidays" ItemIcon="/temp/IconCache/Applications/32x32/star_yellow.png" />
+  <Item ItemPath="/sitecore/content/Home/Family Holidays/Discover the Cotswolds" ItemIcon="/temp/IconCache/Network/16x16/earth.png" />
+  <Item ItemPath="/sitecore/content/Home/Family Holidays/Discover the Cotswolds/Bicycle" ItemIcon="/temp/IconCache/PeopleV2/16x16/bicycle.png" />
+  <Item ItemPath="/sitecore/content/Home/Family Holidays/Trip to Iceland" ItemIcon="/temp/IconCache/Network/16x16/earth.png" />
+  <Item ItemPath="/sitecore/content/Home/Family Holidays/Explore Holland" ItemIcon="/temp/IconCache/Network/16x16/earth.png" />
+  <Item ItemPath="/sitecore/content/Home/Family Holidays/Trip to Germany" ItemIcon="/temp/IconCache/Network/16x16/earth.png" />
+</ItemIconCache>
