@@ -1,0 +1,79 @@
+----item----
+version: 1
+id: {1D489A5A-1DF5-4810-AD77-196F3D4915F0}
+database: master
+path: /sitecore/content/Home/Family Holidays 2/Copy of Family Holidays 2/Copy of Family Holidays 2 3
+parent: {D75FA5B6-941D-4A20-8A2F-D9218A8FC46E}
+name: Copy of Family Holidays 2 3
+master: {00000000-0000-0000-0000-000000000000}
+template: {874ED6DC-F07C-4166-B66C-97FBC2EC5091}
+templatekey: Holidays Section
+
+----version----
+language: en
+version: 1
+revision: f54f2fc2-feac-4d61-8ef3-a8eb78ae41fb
+
+----field----
+field: {551D20CC-5E8D-454D-A5A4-BE6F1157D333}
+name: Heading
+key: heading
+content-length: 30
+
+Holidays for the Entire Family
+----field----
+field: {A0692842-97B7-4F93-AEC0-6EB2879E5ECF}
+name: Main Content
+key: main content
+content-length: 49
+
+Take the kids on a cycling adventure this summer!
+----field----
+field: {3DFABD0E-C8BB-4826-A1A4-5E3530C8E2CB}
+name: Main Image
+key: main image
+content-length: 227
+
+<image mediapath="/Images/BasicSitecore/main-image" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Images/BasicSitecore/main-image" mediaid="{27B2F1E2-58BD-4E5F-B088-F34077F254FB}" />
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151124T115628Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+f54f2fc2-feac-4d61-8ef3-a8eb78ae41fb
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20160212T151816:635908870963174090Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin

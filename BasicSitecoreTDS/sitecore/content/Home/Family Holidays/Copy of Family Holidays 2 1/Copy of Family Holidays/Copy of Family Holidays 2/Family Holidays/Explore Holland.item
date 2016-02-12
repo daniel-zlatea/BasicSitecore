@@ -1,0 +1,100 @@
+----item----
+version: 1
+id: {7B27F704-6BAD-439D-9527-8C3546223298}
+database: master
+path: /sitecore/content/Home/Family Holidays/Copy of Family Holidays 2 1/Copy of Family Holidays/Copy of Family Holidays 2/Family Holidays/Explore Holland
+parent: {D10AC97A-193B-42DF-83B6-2D4ED1564F80}
+name: Explore Holland
+master: {00000000-0000-0000-0000-000000000000}
+template: {DAD5492F-7959-4D07-9586-D1B9BCCAF5DE}
+templatekey: Trip
+
+----version----
+language: en
+version: 1
+revision: 8d269369-7622-485e-84d8-b12045dd508d
+
+----field----
+field: {551D20CC-5E8D-454D-A5A4-BE6F1157D333}
+name: Heading
+key: heading
+content-length: 15
+
+Explore Holland
+----field----
+field: {A0692842-97B7-4F93-AEC0-6EB2879E5ECF}
+name: Main Content
+key: main content
+content-length: 28
+
+<p>Explore Holland today</p>
+----field----
+field: {3DFABD0E-C8BB-4826-A1A4-5E3530C8E2CB}
+name: Main Image
+key: main image
+content-length: 231
+
+<image mediapath="/Images/BasicSitecore/road-cyclist" alt="" width="" height="" hspace="" vspace="" showineditor="" usethumbnail="" src="~/media/Images/BasicSitecore/road-cyclist" mediaid="{FEE195FB-EC0B-4095-9971-6F76E7D0A922}" />
+----field----
+field: {F3A331DF-418B-401B-8140-AB5D9197C465}
+name: Price per person
+key: price per person
+content-length: 4
+
+£600
+----field----
+field: {6F529000-B9C6-4BB7-9C74-CB6DE5D3143D}
+name: Start Date
+key: start date
+content-length: 16
+
+20151127T000000Z
+----field----
+field: {B5E02AD9-D56F-4C41-A065-A133DB87BDEB}
+name: __Display name
+key: __display name
+content-length: 15
+
+Explore Holland
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20151124T115709Z
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8d269369-7622-485e-84d8-b12045dd508d
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20160212T144248:635908849687671316Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
