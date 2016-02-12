@@ -33,6 +33,16 @@
     <SitecoreWebUrl>http://basicsitecore</SitecoreWebUrl>
     <SitecoreAccessGuid>1d319869-6189-4785-8276-d03e64baaca4</SitecoreAccessGuid>
     <InstallSitecoreConnector>True</InstallSitecoreConnector>
+    <PackageName>BasicSitecoreTDS</PackageName>
+    <GeneratePackage>True</GeneratePackage>
+    <SeperateFilesAndItems>False</SeperateFilesAndItems>
+    <PackageExcludeCode>True</PackageExcludeCode>
+    <AddDateTimeToPackageName>False</AddDateTimeToPackageName>
+    <PackageAuthor>Daniel</PackageAuthor>
+    <PackagePublisher>Daniel</PackagePublisher>
+    <PackageReadme>Basic Update Package</PackageReadme>
+    <PackageVersion>1.0.0.1</PackageVersion>
+    <SitecoreAssemblyPath>D:\Projects\BasicSitecore\Website\bin</SitecoreAssemblyPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <DebugSymbols>false</DebugSymbols>
@@ -66,12 +76,15 @@
     </SitecoreItem>
     <SitecoreItem Include="sitecore\content\Home\Family Holidays\Discover the Cotswolds\Bicycle.item">
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
     </SitecoreItem>
     <SitecoreItem Include="sitecore\content\Home\Family Holidays\Explore Holland.item">
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
     </SitecoreItem>
     <SitecoreItem Include="sitecore\content\Home\Family Holidays\Trip to Iceland.item">
       <ItemDeployment>AlwaysUpdate</ItemDeployment>
+      <ChildItemSynchronization>NoChildSynchronization</ChildItemSynchronization>
     </SitecoreItem>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\HedgehogDevelopment\SitecoreProject\v9.0\HedgehogDevelopment.SitecoreProject.targets" />
