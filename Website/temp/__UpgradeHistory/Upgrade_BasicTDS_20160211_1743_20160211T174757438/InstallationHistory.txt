@@ -1,0 +1,10 @@
+INFO:Installing package: E:\Sitecore\BasicSitecore\Website\sitecore\admin\packages\BasicTDS_20160211_1743.update
+INFO:Installation Mode: Install
+WARN:Item path: '[s]/sitecore/content[/s]'<br/>Item ID: '[s]{0DE95AE4-41AB-4D01-9EB0-67441B7C2450}[/s]'<br/>Item will be overwritten.
+WARN:Item path: '[s]/sitecore/content/Home[/s]'<br/>Item ID: '[s]{110D559F-DEA5-42EA-9C1C-8A5DF7E70EF9}[/s]'<br/>Item will be overwritten.
+WARN:Item path: '[s]/sitecore/content/Home/Family Holidays[/s]'<br/>Item ID: '[s]{B8321228-C728-4A6D-963E-244AF064E8DA}[/s]'<br/>Item will be overwritten.
+WARN:Item path: '[s]/sitecore/content/Home/Family Holidays/Discover the Cotswolds[/s]'<br/>Item ID: '[s]{8F2E729E-5BEF-4F6D-A456-753B3A25745C}[/s]'<br/>Item will be overwritten.
+WARN:Item path: '[s]/sitecore/content/Home/Family Holidays/Holland Trip[/s]'<br/>Item ID: '[s]{5355C45C-3C14-4372-B416-E3431F9FF7F6}[/s]'<br/>Item will be overwritten.
+WARN:Item path: '[s]/sitecore/content/Home/Family Holidays/Merida x4809[/s]'<br/>Item ID: '[s]{99C0061A-5E59-4D39-B055-553437A640A9}[/s]'<br/>Item will be overwritten.
+INFO:Installation of package 'E:\Sitecore\BasicSitecore\Website\sitecore\admin\packages\BasicTDS_20160211_1743.update' has been finished.
+INFO:Post installation step for the package 'E:\Sitecore\BasicSitecore\Website\sitecore\admin\packages\BasicTDS_20160211_1743.update' has been executed.

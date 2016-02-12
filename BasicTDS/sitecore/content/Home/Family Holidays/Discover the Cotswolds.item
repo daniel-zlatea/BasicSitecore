@@ -1,0 +1,93 @@
+----item----
+version: 1
+id: {8F2E729E-5BEF-4F6D-A456-753B3A25745C}
+database: master
+path: /sitecore/content/Home/Family Holidays/Discover the Cotswolds
+parent: {B8321228-C728-4A6D-963E-244AF064E8DA}
+name: Discover the Cotswolds
+master: {00000000-0000-0000-0000-000000000000}
+template: {393D5C45-0358-4F01-8454-F38F7C5A11B5}
+templatekey: Trip
+
+----field----
+field: {A0CB3965-8884-4C7A-8815-B6B2E5CED162}
+name: __Editors
+key: __editors
+content-length: 38
+
+{59F53BBB-D1F5-4E38-8EBA-0D73109BB59B}
+----version----
+language: en
+version: 1
+revision: b3707dc4-ae81-4309-8265-41828a88e031
+
+----field----
+field: {F4ADA4F6-B3F3-4433-B3C9-EA3C51B42E94}
+name: Heading
+key: heading
+content-length: 22
+
+Discover the Cotswolds
+----field----
+field: {CE567B0D-022A-4FB9-BE45-8C6A48BBCAEF}
+name: Main Content
+key: main content
+content-length: 18
+
+<p>Lorem ipsum</p>
+----field----
+field: {A0753950-1B6E-41D2-B0BE-6DE3BE8E49A7}
+name: Main Image
+key: main image
+content-length: 58
+
+<image mediaid="{FEE195FB-EC0B-4095-9971-6F76E7D0A922}" />
+----field----
+field: {392DFB90-73F2-47FB-9E01-28E965608B13}
+name: Price per person
+key: price per person
+content-length: 4
+
+600$
+----field----
+field: {29D050FF-676F-4E4C-ADD5-7AC5D76BFE58}
+name: Start Date
+key: start date
+content-length: 16
+
+20160208T000000Z
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 16
+
+20160208T143727Z
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+b3707dc4-ae81-4309-8265-41828a88e031
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 35
+
+20160210T154737:635907160572911866Z
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {001DD393-96C5-490B-924A-B0F25CD9EFD8}
+name: __Lock
+key: __lock
+content-length: 52
+
+<r owner="sitecore\admin" date="20160208T162833Z" />
